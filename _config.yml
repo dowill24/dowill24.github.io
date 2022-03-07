@@ -1,0 +1,229 @@
+title: IntroduceMe
+name: DuHee Han
+email: dowill24@gmail.com
+description: >-
+  Data Scientist & A.I developer
+
+
+baseurl: ""
+url: "https://dowill24.github.io"
+
+
+# profile 이미지
+profile_image: images/about.jpg
+
+
+# SNS 아이디
+facebook_id: hand524
+instagram_id: hand524
+
+
+# Youtube vid
+youtube_vid: #
+
+
+# Custom Color
+primary: 2c98f0 #b72cf0
+primary_hover: 44A4F2 #9a2dc7
+color_1: 2c98f0 #b72cf0
+color_2: ec5453
+color_3: f9bf3f
+color_4: a84cb8
+color_5: 2fa499
+color_6: 4054b2
+
+
+# slider type 0  (텍스트가 우측 정렬된 슬라이더)
+slider_0: # 형식에 맞추어 항목 추가
+- background_url: images/cover_bg_3.jpeg
+  title: Happily <br>Ever After</br>
+
+
+# slider type 1  (텍스트가 좌측 정렬된 슬라이더)
+slider_1: # 형식에 맞추어 항목 추가
+- background_url: images/img_bg_4.jpg
+  title: Want to be<br>Data Scientist
+  subtitle: >- 
+    꾸준하게 성실하게<br>
+    배우며 나아가는<br>
+    데이터 분석가를 꿈꾸는<br>
+    한두희입니다.
+
+
+# About
+about_meta: About Me
+about_header: >- 
+  "데이터 분석가를 꿈꾸는 대학원생"
+about_introduce: >-
+  "안녕하세요. 데이터 분석 전문가를 꿈꾸는 대학원생, 한두희입니다."
+about_content: >-
+  머신러닝과 신경망 모델을 활용하는 데이터 분석에 관심이 많습니다
+about_services: # 형식에 맞추어 항목 추가
+- icon: icon-data
+  name: SQL/Spark
+- icon: icon-monitor
+  name: Data Visiualization
+- icon: icon-phone3
+  name: App Data
+- icon: icon-code
+  name: Python
+about_box_content: 저에 관련된 보다 자세한 사항은 아래 CV를 참고해 주세요
+about_box_button:
+  link: cv/cvpdf
+  name: cvpdf
+
+
+# Tech  skill
+tech_meta: TECH SKILLS
+tech_header: What I'm Interested In
+tech_content: 꾸준히 공부하며 발전합니다
+tech_list: # 형식에 맞추어 항목 추가
+- name: Python
+  color: color-1
+  animation: fadeInLeft
+  percent: 60
+  mark: 60
+  content: Python의 라이브러리를 활용한 데이터분석 및 시각화를 수행할수 있으며 자료구조 및 알고리즘을 Python으로 구현 할 수 있습니다.
+- name: 딥러닝
+  color: color-2
+  animation: fadeInRight
+  percent: 50
+  mark: 50
+  content: Tensorflow 사용에 익숙하며 Object Detection, Image Segmentation 에 관심이 많습니다. Hugging Face를 활용한 자연어 처리 역시 가능합니다.
+- name: GIS Analysis
+  color: color-3
+  animation: fadeInLeft
+  percent: 50 
+  mark: 50
+  content: 지리정보 분석체계인 GIS를 활용할 수 있으며 공간 통계에 관하여 공부하였습니다.
+- name: DataBase
+  color: color-4
+  animation: fadeInRight
+  percent: 50
+  mark: 50
+  content: SQL 과 Spark를 통하여 데이터 쿼리 및 전처리를 수행 할수 있습니다
+tech_desc: 공부한것을 실무에서 활용하기 위하여 <strong>Github, 아마존 AWS, docker</strong>등을 계속해서 꾸준히 공부할 생각입니다. 
+
+
+# Project
+project_meta: My Work
+project_header: PROJECT
+project_introduce: 부딪히고 경험하기
+project_load_more: 앞으로 더 많은 프로젝트로 경험을 쌓아나갈 예정입니다:)    # 더보기 내용
+project_load_more_url: #
+
+project_my_name: 개인프로젝트
+
+project_my: # 형식에 맞추어 항목 추가
+- background_url: images/kobert.PNG
+  animation: fadeInLeft
+  name: KoBert를 활용한 뉴스 토픽 분류
+  description: Hugging Face로 구현된 Kobert를 활용하여 뉴스토픽을 분류하고 자연어 처러에 관한 이해를 높일수 있었던 프로젝트 입니다. 
+
+- background_url: images/floorplandetection.PNG
+  animation: fadeInLeft
+  name: Computer Vision을 활용한 도면 인식
+  description: Object Detection 및 Segmentation을 활용하여 건축도면을 인식 시키는 프로젝트를 진행하였습니다. 
+
+project_team_name: 팀프로젝트
+project_team: # 형식에 맞추어 항목 추가
+- background_url: images/juvis.JPG
+  animation: fadeInRight
+  name: JUVIS 고객 데이터 분석
+  description: 2017년부터 2021년까지의 JUVIS 고객 데이터를 분석하였고 고객에게 맞는 최적의 생활패턴을 추천하는 시스템을 구현하였습니다.
+
+- background_url: images/team_project3.PNG
+  animation: fadeInRight
+  name: sasdasdasdsadsagjghkukt(2020.05)
+  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+
+# Experience
+exp_meta: What have I achieved?
+exp_header: Various Experience
+exp_content: 데이터분석과 관련된 지식 이외에도 저는 다양한 분야에 관심이 많습니다
+exp_services: # 형식에 맞추어 항목 추가
+- name: Management
+  color: color-1
+  icon: icon-bulb
+  content: 생활과학대학 학생회장으로서 여러 행사를 기획하고 진행하였습니다.
+- name: Design
+  color: color-2
+  icon: icon-home
+  content: 실내건축디자인을 전공하며 포토샵 일러스트레이터 3D Modeling 프로그램등을 활용하는데 익숙합니다.
+- name: Insight
+  color: color-3
+  icon: icon-phone3
+  content: 경제,역사,예술등 다양한 분야에 관심을 가지고 이와 관련된 Culture Literacy를 지니고 있습니다.
+
+# Career
+carerr_meta: career
+career_header: Work Career
+career_list:
+- name: JUVIS PROJECT
+  date: 2020.09~2021.03
+  content: 고객 데이터 분석을 통한 고객 행동 맞춤 추천 시스템 개발 및 데이터 시각화
+  color: color-1
+  icon: icon-pen2
+  animation: fadeInLeft
+- name: AI ARCHITECTURE
+  date: 2021.11~2022.08
+  content: 건축 도면 인식을 위한 컴퓨터 비전 활용
+  color: color-2
+  icon: icon-pen2
+  animation: fadeInRight
+
+
+# Education
+edu_meta: Education
+edu_header: Education
+edu_list:
+- title: UNIVERSITY OF SEOUL URBAN BIGDATA MASTER'S DEGREE
+  subtitle: 서울시립대학교 <br>도시빅데이터융합학과<br> 석사과정
+  date: 2020.09 - 현재
+  content: 통계학과 전종준 교수님 연구실에서 공부하였습니다 
+- title: HANYANG UNIVERSITY
+  subtitle: 한양대학교 생활과학대학<br> 실내건축디자인학과 졸업
+  date: 2014.03 - 2018.02
+  content: 주거환경 및 Building Information Modeling을 전공하였습니다
+- title: JoongDong High School
+  subtitle: 중동고등학교
+  date: 2010.03 - 2013.02
+  content: >-
+    중동고등학교를 졸업하였습니다
+
+
+# What I Learned
+blog_meta: self-improvement
+blog_header: My Study
+blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
+blog_list:
+- title: 추천시스템
+  subtitle: 머신러닝과 딥러닝을 활용한 추천시스템
+  date: 2021.06
+  content: 추천시스템의 기본 원리와 Matrix Factorization,Deep neural networks for youtube recommendations 등을 통해 추천시스템의 방법론을 공부하였습니다
+  thumbnail_url: images/matrixfactorization.PNG
+- title: 자료구조 및 알고리즘
+  subtitle: Python을 통한 자료구조 및 알고리즘 공부
+  date: 2021.03
+  content: 자료구조 및 알고리즘을 공부하였습니다. 특히 최단거리 탐색 알고리즘에 관심을 가지고 관련 분야를 더 공부하였습니다
+  thumbnail_url: images/urban2.PNG
+- title: 최적화
+  subtitle: Convex 최적화를 포함한 여러 최적화 알고리즘
+  date: 2020.09
+  content: 최적화 알고리즘에 관심을가지고 세미나에 참석하여 체계적인 공부를 하였습니다
+  thumbnail_url: images/optimization.PNG
+
+
+
+# Contact
+contact_meta: Get in Touch
+contact_header: Contact
+contact_list:
+- title: 163, Seoulsiripdae-ro, Dongdaemun-gu, Seoul, Republic of Korea 미래관 604호
+  icon: icon-map
+- title: dowill24@gmail.com
+  icon: icon-mail
+
+
+optional_front_matter:
+  remove_originals:    true
