@@ -41,7 +41,7 @@ slider_0: # 형식에 맞추어 항목 추가
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
-- background_url: images/img_bg_4.jpg
+- background_url: images/cover_bg_1.jpg
   title: Want to be<br>Data Scientist
   subtitle: >- 
     꾸준하게 성실하게<br>
@@ -69,7 +69,7 @@ about_services: # 형식에 맞추어 항목 추가
   name: Python
 about_box_content: 저에 관련된 보다 자세한 사항은 아래 CV를 참고해 주세요
 about_box_button:
-  link: cv/cvpdf
+  link: pdf/Anti-DroneRobot.pdf
   name: cvpdf
 
 
@@ -120,22 +120,22 @@ project_my: # 형식에 맞추어 항목 추가
   name: KoBert를 활용한 뉴스 토픽 분류
   description: Hugging Face로 구현된 Kobert를 활용하여 뉴스토픽을 분류하고 자연어 처러에 관한 이해를 높일수 있었던 프로젝트 입니다. 
 
-- background_url: images/floorplandetection.PNG
+- background_url: images/blog-1.PNG
   animation: fadeInLeft
   name: Computer Vision을 활용한 도면 인식
   description: Object Detection 및 Segmentation을 활용하여 건축도면을 인식 시키는 프로젝트를 진행하였습니다. 
 
 project_team_name: 팀프로젝트
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/juvis.JPG
+- background_url: images/img_bg_3.JPG
   animation: fadeInRight
   name: JUVIS 고객 데이터 분석
   description: 2017년부터 2021년까지의 JUVIS 고객 데이터를 분석하였고 고객에게 맞는 최적의 생활패턴을 추천하는 시스템을 구현하였습니다.
 
 - background_url: images/team_project3.PNG
   animation: fadeInRight
-  name: sasdasdasdsadsagjghkukt(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+  name: 도시 빅데이터 선행연구 조사(2021.12)
+  description: 도시빅데이터와 관련된 논문들을 읽고 정리하여 수업자료 형태로 구성하였다
 
 # Experience
 exp_meta: What have I achieved?
@@ -201,17 +201,17 @@ blog_list:
   subtitle: 머신러닝과 딥러닝을 활용한 추천시스템
   date: 2021.06
   content: 추천시스템의 기본 원리와 Matrix Factorization,Deep neural networks for youtube recommendations 등을 통해 추천시스템의 방법론을 공부하였습니다
-  thumbnail_url: images/matrixfactorization.PNG
+  thumbnail_url: images/team_project4.PNG
 - title: 자료구조 및 알고리즘
   subtitle: Python을 통한 자료구조 및 알고리즘 공부
   date: 2021.03
   content: 자료구조 및 알고리즘을 공부하였습니다. 특히 최단거리 탐색 알고리즘에 관심을 가지고 관련 분야를 더 공부하였습니다
-  thumbnail_url: images/urban2.PNG
+  thumbnail_url: images/team_project3.PNG
 - title: 최적화
   subtitle: Convex 최적화를 포함한 여러 최적화 알고리즘
   date: 2020.09
   content: 최적화 알고리즘에 관심을가지고 세미나에 참석하여 체계적인 공부를 하였습니다
-  thumbnail_url: images/optimization.PNG
+  thumbnail_url: images/blog-3.PNG
 
 
 
