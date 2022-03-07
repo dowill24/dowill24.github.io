@@ -115,7 +115,7 @@ project_load_more_url: #
 project_my_name: 개인프로젝트
 
 project_my: # 형식에 맞추어 항목 추가
-- background_url: images/kobert.PNG
+- background_url: images/kobert.png
   animation: fadeInLeft
   name: KoBert를 활용한 뉴스 토픽 분류
   description: Hugging Face로 구현된 Kobert를 활용하여 뉴스토픽을 분류하고 자연어 처러에 관한 이해를 높일수 있었던 프로젝트 입니다. 
